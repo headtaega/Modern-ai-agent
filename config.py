@@ -1,0 +1,2 @@
+# files
+CHAR_LIMIT = 10000
